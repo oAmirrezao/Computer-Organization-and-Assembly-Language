@@ -116,3 +116,18 @@ The executable file generated from `template.asm`.
 
 ![Screenshot 2024-02-11 225743](https://github.com/user-attachments/assets/860dab20-ffb5-457b-b08d-9788994f3ad4)
 
+
+### The convolution function is implemented in Assembly language in the project.
+
+```
+for (int i = 0; i < n - m + 1; i++) {
+  for (int j = 0; j < n - m + 1; j++) {
+    for (int k = 0; k < m; k++) {
+      for (int l = 0; l < m; l++) {
+        mat3[i][j] += mat1[i + k][j + l] * mat2[k][l];
+      }
+    }
+  }
+}
+```
+In addition, comments related to code snippets are provided in some sections of the program. Due to their length, they have not been rewritten here.
