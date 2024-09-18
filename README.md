@@ -104,7 +104,11 @@ The image produced after processing.
 ## 16. `Template`
 The executable file generated from `template.asm`.
 
-![image](https://github.com/user-attachments/assets/fbf355ef-0f6d-4bf1-a355-1221183c4493)
+
+### Kernel Matrices Suitable for Various Purposes
+
+![image](https://github.com/user-attachments/assets/bfb12c43-0f2d-4032-bc0b-d227780f3ba4)
+
 
 ![image](https://github.com/user-attachments/assets/fbd129ee-78f7-4558-8971-e2c0117c97ee)
 
