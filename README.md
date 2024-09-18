@@ -13,8 +13,11 @@ A program in Assembly language that can perform the following tasks:
 ### How to Work with the Program:
 ## 1.Run imgToMat.py file: Execute the following command:
 
-
-```python3 imgToMat.py```
+```
+bash
+# Example of a Bash command
+python3 imgToMat.py
+```
 This file takes an image as input and resizes it to the desired pixel dimensions (e.g., 200x200). In the provided version, the input image is embedded in the code, so there's no need to provide an input image. The script converts the image into a matrix of the same dimensions and writes the data into a text file called input.txt.
 
 ## 2.Disassemble the Assembly file: Run the following command:
