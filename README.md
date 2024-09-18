@@ -40,10 +40,10 @@ This script reads the convolution matrix from the output.txt file and converts i
 ## 4.View the generated image: Use an appropriate image viewer to display the output image. Some recommended image viewers include imviewer and nomacs. You can install nomacs using the following command:
 
 **bash**
-'''Copy code
+```Copy code
 sudo apt install nomacs
 After installation, you can view the image using the following command:
-'''
+```
 bash
 Copy code
 nomacs output_image.png
